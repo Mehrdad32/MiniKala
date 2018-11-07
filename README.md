@@ -1,0 +1,2 @@
+# MiniKala
+Online shopping 
